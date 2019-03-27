@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/emanuel-campos/wisetabs/issues"
   },
-  "homepage": "https://github.com/emanuel-campos/wisetabs#readme"
+  "homepage": "https://github.com/emanuel-campos/wisetabs#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6"
+  }
 }
